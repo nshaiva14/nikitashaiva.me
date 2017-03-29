@@ -8,7 +8,7 @@ html, body {
 
 body.home {
   font-family: 'Optima', sans-serif;
-  background-image: url('http://vignette1.wikia.nocookie.net/prydain/images/7/7f/Mountains.jpg/revision/latest?cb=20130328022425');
+  background-image: url('http://www.resortcollection.com/wp-content/themes/resortcollection/property-images/summit/summit-beach-resort-panama-city-beach-fl-beach-01.jpg');
   background-blend-mode: lighten;
   background-position: center top;
   background-size: cover;
@@ -18,11 +18,12 @@ body.home {
 .page-title {
   text-align: center;
   font-weight: 100;
+  color: white;
 }
 
 .page-description {
   margin: 1px;
-  text-align: left;
+  text-align: center;
   padding: 90px;
   font-size: 15px;
   color: white;
@@ -38,7 +39,7 @@ p.main {
 
 div.box {
   padding: 5px;
-  margin: 30px;
+  margin: 35px;
   background-color: #ffffff;
   border: 1px solid black;
   opacity: 0.85;
